@@ -4,6 +4,6 @@
 &nbsp;&nbsp;&nbsp;
 </a>
 <a href="https://github.com/enty8080">
-<img height="150" src="https://github-profile-trophy.vercel.app/?username=enty8080&theme=nord" /></a>
+<img height="170" src="https://github-profile-trophy.vercel.app/?username=enty8080&theme=nord" /></a>
 </a>
 </p>
